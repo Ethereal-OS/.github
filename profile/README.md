@@ -3,6 +3,11 @@
 WORK IN PROGRESS | DO NOT FORK
 
 
+<p align="center">
+<img src="https://github.com/Ethereal-OS/Manifest/blob/A13/assists/ETHEREAL-OS.png" > 
+</p>
+
+
 
 ## FUNDING
 
