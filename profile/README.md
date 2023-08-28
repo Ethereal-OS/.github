@@ -1,1 +1,1 @@
-Welcome to Project VIPER-OS
+Welcome to Project Ethereal-OS
