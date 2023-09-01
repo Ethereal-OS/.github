@@ -44,11 +44,11 @@ bc1qmxdtgaw23xmqg3awlfttj7jsnvqld4n5lw3exz
 ```
 https://www.paypal.me/IamCODER
 ```
-Buy me a Coffee: 
+- Buy me a Coffee: 
 ```
 https://www.buymeacoffee.com/iamcoder
 ```
-Buy Me A KO-FI:
+- Buy Me A KO-FI:
 ```
 https://ko-fi.com/iamcod3x
 ```
