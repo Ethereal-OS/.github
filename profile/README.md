@@ -7,8 +7,26 @@ WORK IN PROGRESS | DO NOT FORK
 <img src="https://github.com/Ethereal-OS/Manifest/blob/A13/assists/ETHEREAL-OS.png" > 
 </p>
 
+## HOW TO BUILD
 
+```
+# Initialize Local Repo
+repo init -u https://github.com/Ethereal-OS/Manifest -b A13
 
+# Sync
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+
+# Build
+# Set up environment
+$ . build/envsetup.sh
+
+# Choose a target
+$ lunch aosp_$device-userdebug
+
+# Build the code
+$ mka bacon -j$(nproc --all)
+
+```
 ## FUNDING
 
 
