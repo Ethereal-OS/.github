@@ -10,21 +10,37 @@ WORK IN PROGRESS | DO NOT FORK
 ## HOW TO BUILD
 
 ```
+# Make directory for the repo binary
+
+      $ mkdir ~/bin
+
+# Add directory for the repo binary to its path
+
+      $ PATH=~/bin:$PATH
+
+# Downloading repo binary and placing it in the proper directory
+
+      $ curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+
+# Giving the repo binary the proper permissions
+
+      $ chmod a+x ~/bin/repo
+
 # Initialize Local Repo
-repo init -u https://github.com/Ethereal-OS/Manifest -b A13
+      repo init -u https://github.com/Ethereal-OS/Manifest -b A13
 
 # Sync
-repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+      repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 # Build
 # Set up environment
-$ . build/envsetup.sh
+      $ . build/envsetup.sh
 
 # Choose a target
-$ lunch ethereal_$device-userdebug
+      $ lunch ethereal_$device-userdebug
 
 # Build the code
-$ mka bacon -j$(nproc --all)
+      $ mka bacon -j$(nproc --all)
 
 ```
 ## FUNDING
