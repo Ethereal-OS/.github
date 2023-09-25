@@ -21,7 +21,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 $ . build/envsetup.sh
 
 # Choose a target
-$ lunch aosp_$device-userdebug
+$ lunch ethereal_$device-userdebug
 
 # Build the code
 $ mka bacon -j$(nproc --all)
