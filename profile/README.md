@@ -69,3 +69,32 @@ https://www.buymeacoffee.com/iamcoder
 https://ko-fi.com/iamcod3x
 ```
 
+Help from other devices for making them Official
+------------------------------------------------
+
+If you got some commits missing in our sources for your device, let us know on our telegram chat. Everything else, it's up to you at the time of building.
+
+Credits
+-------
+* [**ArrowOS Project**](https://github.com/ArrowOS)
+* [**LineageOS/Cyanogenmod**](https://github.com/LineageOS)
+* [**Project-Xtended**](https://github.com/Project-Xtended/)
+* [**Colt Enigma**](https://github.com/Colt-Enigma)
+* [**VoidUI**](https://github.com/VoidUI-Tiramisu/)
+* [**Thanks to all the custom rom community**]
+
+# Thanks & Regards 
+
+<pre> 88888888b d888888P dP     dP   88888888b  888888ba   88888888b  .d888888  dP                  .88888.  .d88888b  
+ 88           88    88     88   88         88    `8b  88        d8'    88  88                 d8'   `8b 88.    "' 
+a88aaaa       88    88aaaaa88a a88aaaa    a88aaaa8P' a88aaaa    88aaaaa88a 88                 88     88 `Y88888b. 
+ 88           88    88     88   88         88   `8b.  88        88     88  88        88888888 88     88       `8b 
+ 88           88    88     88   88         88     88  88        88     88  88                 Y8.   .8P d8'   .8P 
+ 88888888P    dP    dP     dP   88888888P  dP     dP  88888888P 88     88  88888888P           `8888P'   Y88888P  
+                                                                                                                  
+                                                                                                                  </pre>
+
+
+
+
+
