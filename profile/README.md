@@ -81,6 +81,7 @@ Credits
 * [**Project-Xtended**](https://github.com/Project-Xtended/)
 * [**Colt Enigma**](https://github.com/Colt-Enigma)
 * [**VoidUI**](https://github.com/VoidUI-Tiramisu/)
+* [**AOSP**](https://github.com/aosp-mirror)
 * [**Thanks to all the custom rom community**]
 
 # Thanks & Regards 
