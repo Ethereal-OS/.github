@@ -29,7 +29,7 @@
       $ chmod a+x ~/bin/repo
 
 # Initialize Local Repo
-      repo init -u https://github.com/Ethereal-OS/Manifest -b A13
+      repo init -u https://github.com/Ethereal-OS/Manifest -b A13 --git-lfs
 
 # Sync
       repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
@@ -78,12 +78,9 @@ If you got some commits missing in our sources for your device, let us know on o
 
 Credits
 -------
-* [**ArrowOS Project**](https://github.com/ArrowOS)
 * [**LineageOS/Cyanogenmod**](https://github.com/LineageOS)
-* [**Project-Xtended**](https://github.com/Project-Xtended/)
-* [**Colt Enigma**](https://github.com/Colt-Enigma)
 * [**VoidUI**](https://github.com/VoidUI-Tiramisu/)
-* [**AOSP**](https://github.com/aosp-mirror)
+* [**VoltageOS**](https://github.com/VoltageOS)
 * [**Thanks to all the custom rom community**]
 
 # Thanks & Regards 
