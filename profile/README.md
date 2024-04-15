@@ -5,6 +5,8 @@
 <img src="https://github.com/Ethereal-OS/Manifest/blob/A13/assists/ETHEREAL-OS.png" > 
 </p>
 
+[SECURITY PATCH Lv. 05/12/2023]
+
 ## Download Now
 <a href="https://sourceforge.net/projects/ethereal-os/files"><img alt="Download Ethereal-OS" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 
