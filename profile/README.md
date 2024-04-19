@@ -72,7 +72,10 @@ https://ko-fi.com/iamcod3x
 
 Help from other devices for making them Official
 ------------------------------------------------
+##  How to become an Official Maintainer
+Make sure you can follow our [rules-and-guidelines](https://github.com/Ethereal-OS/docs/rules-and-guidelines), then if all is right, just message IamCOD3X over [Telegram](https://telegram.me/IamCOD3X) with the device you want to maintain.
 
+-----------------------------------------------
 If you got some commits missing in our sources for your device, let us know on our telegram chat. Everything else, it's up to you at the time of building.
 
 Credits
