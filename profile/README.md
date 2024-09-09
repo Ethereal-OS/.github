@@ -1,5 +1,5 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴇᴛʜᴇʀᴇᴀʟ ᴘʀᴏᴊᴇᴄᴛ
-SECURITY PATCH Lv. AUGUST 2024
+SECURITY PATCH Lv. SEPTEMBER 2024
 
 <p align="center">
 <img src="https://github.com/Ethereal-OS/Manifest/blob/A13/assists/ETHEREAL-OS.png" > 
