@@ -1,5 +1,5 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴇᴛʜᴇʀᴇᴀʟ ᴘʀᴏᴊᴇᴄᴛ
-SECURITY PATCH Lv. 1 NOVEMBER 2024
+SECURITY PATCH Lv. 1 DECEMBER 2024 | Android 13
 
 <p align="center">
 <img src="https://github.com/Ethereal-OS/Manifest/blob/A13/assists/ETHEREAL-OS.png" > 
@@ -49,7 +49,7 @@ SECURITY PATCH Lv. 1 NOVEMBER 2024
 
 - UPI ID :  
 ```
-coder28@sbi
+iamcod3x@upi
 ```
 
 - Bitcoin (BTC):  
