@@ -1,9 +1,15 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴇᴛʜᴇʀᴇᴀʟ ᴘʀᴏᴊᴇᴄᴛ
-SECURITY PATCH Lv. 1 DECEMBER 2024 | Android 13
 
 <p align="center">
-<img src="https://github.com/Ethereal-OS/Manifest/blob/A13/assists/ETHEREAL-OS.png" > 
+<img src="https://github.com/Ethereal-OS/Manifest/blob/A14/assists/ETHEREAL-OS.png" > 
 </p>
+
+### Security Patch Levels
+
+| Android Version | Security Patch Level |
+|------------------|-----------------------|
+| Android 13       | 1 DECEMBER 2024 |
+| Android 14       | 1 SEPTEMBER 2024 |
 
 ## Download Now
 <a href="https://sourceforge.net/projects/ethereal-os/files"><img alt="Download Ethereal-OS" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
