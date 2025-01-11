@@ -9,7 +9,7 @@
 | Android Version | Security Patch Level |
 |------------------|-----------------------|
 | Android 13       | 1 DECEMBER 2024 |
-| Android 14       | 1 SEPTEMBER 2024 |
+| Android 14       | 1 OCTOBER 2024 |
 
 ## Download Now
 <a href="https://sourceforge.net/projects/ethereal-os/files"><img alt="Download Ethereal-OS" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
