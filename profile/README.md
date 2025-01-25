@@ -8,7 +8,7 @@
 
 | Android Version | Ethereal Version | Security Patch Level |
 |------------------|-----------------------|-----------------------|
-| Android 13       | AURA | 1 DECEMBER 2024 |
+| Android 13       | AURA | 1 JANUARY 2025 |
 | Android 14       | ELEGANCE | 1 JANUARY 2025 |
 
 ## Download Now
