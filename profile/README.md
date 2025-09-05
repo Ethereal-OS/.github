@@ -9,7 +9,7 @@
 | Android Version | Ethereal Version | Security Patch Level |
 |------------------|-----------------------|-----------------------|
 | Android 13       | AURA | 1 July 2025 |
-| Android 14       | ELEGANCE | 1 July 2025 |
+| Android 14       | ELEGANCE | 1 September 2025 |
 
 ## Download Now
 <a href="https://sourceforge.net/projects/ethereal-os/files"><img alt="Download Ethereal-OS" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
